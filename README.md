@@ -13,7 +13,7 @@ pip install dataglove
 ## Run
 
 1. Conect to the Skydio Drone via WiFi (192.168.10.1).
-2. Make sure to turn on Bluetooth on your computer, and turn on data-gloves but DO NOT pair them to your device (this will interfere with the connection process).
+2. Make sure to turn on Bluetooth on your computer, and turn on the data-gloves but DO NOT pair them to your device (this will interfere with the connection process).
 3. Run HEDO.py (make sure to follow the calibration procedure upon boot-up to ensure proper function).
 
 ## Commands
