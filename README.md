@@ -28,6 +28,9 @@ pip install dataglove
 
 All functions for Bebop's Data-Glove library can be found [HERE](https://pypi.org/project/dataglove/)
 
+
+## Legacy
+
 An older version of this project can be found [HERE](https://github.com/sofwerx/dataglove)
 
 
