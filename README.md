@@ -1,6 +1,6 @@
 # Hyper-Enabled Drone Operator
 
-This project serves as a proof-of-concept system to fly a Skydio drone using a set of Bebop Forte Data-Gloves.  Several test scripts for the data-gloves are also included to make development easier.
+This project serves as a proof-of-concept system to fly a Skydio drone using a set of Forte Data-Gloves from Bebop Sensors.  Several test scripts for the data-gloves are also included to make development easier.
 
 ## Installation
 
